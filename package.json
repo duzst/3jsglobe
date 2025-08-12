@@ -1,5 +1,5 @@
 {
-  "name": "dot-globe-vercel",
+  "name": "3jsglobe",
   "private": true,
   "version": "1.0.0",
   "scripts": {
@@ -15,9 +15,9 @@
     "three": "latest"
   },
   "devDependencies": {
-    "autoprefixer": "latest",
-    "postcss": "latest",
     "tailwindcss": "latest",
+    "@tailwindcss/postcss": "latest",
+    "postcss": "latest",
     "eslint": "latest",
     "eslint-config-next": "latest"
   },

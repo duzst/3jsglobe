@@ -1,11 +1,1 @@
-# Interactive Dot Globe (Next.js + Three.js + Tailwind)
-Quickstart:
-```
-npm install
-npm run dev
-```
-Deploy:
-```
-npm i -g vercel
-vercel && vercel --prod
-```
+# 3jsglobe (Next.js + Three.js + Tailwind v4)\n\nQuickstart:\n```bash\nnpm install\nnpm run dev\n```\n\nGitHub push:\n```bash\ngit init -b main\ngit add .\ngit commit -m \"init: 3jsglobe\"\ngit remote add origin git@github.com:<user>/3jsglobe.git\ngit push -u origin main\n```\n\nVercel: import repo → deploy.\n
